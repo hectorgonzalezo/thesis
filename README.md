@@ -1,3 +1,3 @@
-#Composing With Interactive Computer Music Systems
+# Composing With Interactive Computer Music Systems
 
-##by Héctor González Orozco
+## by Héctor González Orozco
